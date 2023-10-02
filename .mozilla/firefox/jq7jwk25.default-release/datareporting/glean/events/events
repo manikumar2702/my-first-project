@@ -1,0 +1,2 @@
+{"timestamp":162292,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","enrollment_id":"db31969e-b1a9-4994-bbc2-1ce1fc81ac8e","experiment_type":"rollout","experiment":"firefox-accounts-toolbar-button-badge"}}
+{"timestamp":162317,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","enrollment_id":"6dc88598-b5fe-45ad-bcaa-79413b1dbc97","branch":"treatment-a","experiment_type":"rollout"}}

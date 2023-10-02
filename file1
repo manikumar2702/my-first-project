@@ -1,0 +1,16 @@
+
+Command 'data' not found, did you mean:
+
+  command 'date' from deb coreutils (8.30-3ubuntu2)
+  command 'dat' from deb liballegro4-dev (2:4.4.3.1-1)
+
+Try: sudo apt install <deb name>
+
+    October 2023      
+Su Mo Tu We Th Fr Sa  
+ 1 _ _2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
+                      
